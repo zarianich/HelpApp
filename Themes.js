@@ -1,13 +1,13 @@
 const themes = {
     darkTheme: {
-        main_color: '#000',
-        secondary_color: '#FFCC99',
-        help_buttons_color: '#AC2832'
+        main_color: '#1f1f1f',
+        secondary_color: '#fff',
+        help_buttons_color: '#4ECDC4'
     },
     lightTheme: {
-        main_color: '#e8e8e8',
+        main_color: '#f7f7f7',
         secondary_color: '#000',
-        help_buttons_color: '#AC2832'
+        help_buttons_color: '#4ECDC4'
     }
 }
 
